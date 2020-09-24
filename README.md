@@ -1,11 +1,13 @@
 # Integrações
 
+Este repositório é dedicado ao compartilhamento de código-fonte útil durante o desenvolvimento de aplicações na plataforma TOTVS Fluig.
+
 ## Fontes disponíveis
 
 ### Backend
 
-1. Criação de pasta no ECM passando configurações de segurança (backend)
+* Criação de pasta no ECM passando configurações de segurança
 
 ### Frontend
 
-1. Exportação de informações de cada usuário do colleague (frontend)
+* Exportação de informações de cada usuário do colleague
