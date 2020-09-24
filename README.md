@@ -1,4 +1,4 @@
-# Integrações
+# Fluig Utils
 
 Este repositório é dedicado ao compartilhamento de código-fonte útil durante o desenvolvimento de aplicações na plataforma TOTVS Fluig.
 
